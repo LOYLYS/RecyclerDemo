@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Recycler Demo</string>
+    <string name="default_hero_name">No name</string>
 </resources>
